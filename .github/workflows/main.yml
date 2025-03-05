@@ -1,4 +1,4 @@
-name: RDPhf
+name: RDP
 on:
   push:
     branches:
